@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TrainingList</key>
+	<array>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Puxador Costas</string>
+			<key>Weight</key>
+			<integer>30</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Remada Baixa Triângulo</string>
+			<key>Weight</key>
+			<integer>25</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Lombar Banco</string>
+			<key>Weight</key>
+			<integer>0</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Triceps Francês com Halter</string>
+			<key>Weight</key>
+			<integer>4</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Triceps Pulley com Corda</string>
+			<key>Weight</key>
+			<integer>10</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Cadeira Flexora</string>
+			<key>Weight</key>
+			<integer>25</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Cadeira Abdutora</string>
+			<key>Weight</key>
+			<integer>25</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Gluteo Máquina</string>
+			<key>Weight</key>
+			<integer>20</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>3</integer>
+			<key>Name</key>
+			<string>Panturrilha Livre - Escada</string>
+			<key>Weight</key>
+			<integer>0</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>3</integer>
+			<key>Name</key>
+			<string>Abdomen Solo Perna Estendida</string>
+			<key>Weight</key>
+			<integer>0</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>

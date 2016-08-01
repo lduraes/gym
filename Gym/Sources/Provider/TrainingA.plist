@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TrainingList</key>
+	<array>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Cadeira Extensora</string>
+			<key>Weight</key>
+			<integer>25</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Leg Press Horizontal</string>
+			<key>Weight</key>
+			<integer>40</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Rosca Direta Cross</string>
+			<key>Weight</key>
+			<integer>4</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Rosca Martelo Alternada</string>
+			<key>Weight</key>
+			<integer>4</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Cadeira Adutora</string>
+			<key>Weight</key>
+			<integer>25</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Elevação Frontal c/ Halter</string>
+			<key>Weight</key>
+			<integer>4</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>15</integer>
+			<key>Name</key>
+			<string>Desenvolvimento c/ Halter</string>
+			<key>Weight</key>
+			<integer>4</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>3</integer>
+			<key>Name</key>
+			<string>Abdomen Prancha Isom. Solo</string>
+			<key>Weight</key>
+			<integer>0</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Repetition</key>
+			<integer>3</integer>
+			<key>Name</key>
+			<string>Abdomen Solo Perna Estendida</string>
+			<key>Weight</key>
+			<integer>0</integer>
+			<key>Done</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
